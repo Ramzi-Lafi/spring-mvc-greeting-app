@@ -1,4 +1,4 @@
-# First Project Java Spring
+# spring-mvc-greeting-app
 
 A Spring Boot web application built as part of Task 1 for the Spring Framework course at Akademia Finansów i Biznesu Vistula.
 
